@@ -53,3 +53,5 @@ local_settings.py
 # Logs
 *.log
 
+# Ruff Linting
+.ruff_cache/*
